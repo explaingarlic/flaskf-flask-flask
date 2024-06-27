@@ -1,0 +1,6 @@
+domains:
+- flaskf-flask-flas.wasmer.app
+kind: wasmer.io/App.v0
+name: explaingarlic-flaskf-flask-flask
+owner: explaingarlic
+package: .
